@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Hight-Art/precache-manifest.937b11a9682a54f80ee4aec6e61131d3.js"
+  "/Hight-Art/precache-manifest.ef5efec69f186c2749ca6c336f1624d1.js"
 );
 
 workbox.clientsClaim();

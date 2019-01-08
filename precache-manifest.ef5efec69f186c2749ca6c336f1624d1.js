@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/Hight-Art/static/js/runtime~main.96e0a834.js"
   },
   {
-    "revision": "cbd0acd004daa0cad36f",
-    "url": "/Hight-Art/static/js/main.cbd0acd0.chunk.js"
+    "revision": "f6c4ae3bc96d7b28e64e",
+    "url": "/Hight-Art/static/js/main.f6c4ae3b.chunk.js"
   },
   {
     "revision": "42912ffc41913a82b178",
     "url": "/Hight-Art/static/js/1.42912ffc.chunk.js"
   },
   {
-    "revision": "cbd0acd004daa0cad36f",
+    "revision": "f6c4ae3bc96d7b28e64e",
     "url": "/Hight-Art/static/css/main.73673728.chunk.css"
   },
   {
-    "revision": "f112defd2fa7ccf0633252f794295b8b",
+    "revision": "1942f22a78760a99538b66b690e300e3",
     "url": "/Hight-Art/index.html"
   }
 ];
